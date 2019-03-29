@@ -1,0 +1,38 @@
+﻿body {
+    margin: 0;
+    background-image:url(Images/Subtle-Prism.svg) !important;
+    background-attachment:fixed;
+}
+h1 {
+    text-align: center;
+    color: #7F56FF !important;
+}
+.card {
+    border-radius: 40px !important;
+    border: 2px solid #000 !important;
+}
+.btn {
+    border-radius: 25px !important;
+    border: 1px solid #000 !important;
+    background-color: #7F56FF !important;
+}
+.btn:hover {
+    color: lightgray !important;
+}
+.navbar-toggler {
+    border-radius: 15px !important;
+}
+.navbar-brand {
+    color: #7F56FF !important;
+    padding: 0 !important;
+}
+#arc {
+    font-size: 2em !important;
+    padding-bottom: 0.25em !important;
+}
+.nav-link {
+    color: #7F56FF !important;
+}
+.dropdown-divider {
+    color: #7F56FF !important;
+}
